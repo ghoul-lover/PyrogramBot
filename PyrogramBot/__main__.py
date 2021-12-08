@@ -1,7 +1,7 @@
 from pyrogram import idle, Client
 
-from pyrogramBot import app, filters
-from pyrogramBot.utils.misc import count_modules
+from PyrogramBot import app, filters
+from PyrogramBot.utils.misc import count_modules
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
