@@ -68,7 +68,7 @@ jobs:
 
          run: |
 
-           git clone https://github.com/NksamaX/Komi-San komi && cd komi && pip3 install -r requirements.txt
+           git clone https://github.com/swatv3nub/PyrogramBot komi && cd PyrogramBot && pip3 install -r requirements.txt
 
            pwd
 
@@ -86,4 +86,4 @@ jobs:
 
            cd komi
 
-           python3 -m nksama
+           python3 -m PyrogramBot
