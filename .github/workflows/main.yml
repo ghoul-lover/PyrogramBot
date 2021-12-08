@@ -84,6 +84,6 @@ jobs:
 
            pwd
 
-           cd komi
+           cd PyrogramBot
 
            python3 -m PyrogramBot
